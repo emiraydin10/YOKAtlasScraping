@@ -32,8 +32,8 @@ pip install requests beautifulsoup4
 
 1. **Clone the Repository**:
     ```sh
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone <https://github.com/emiraydin10/YOKAtlasScraping.git>
+    cd <YOKAtlasScraping>
     ```
 
 2. **Run the Script**:
