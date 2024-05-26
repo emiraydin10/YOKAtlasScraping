@@ -4,6 +4,8 @@
 
 This Python script is designed to scrape various types of data from the YÖK Atlas website and save the collected data into a CSV file.
 
+Codes are still draft. Updates will be added.
+
 ## Table of Contents
 - [Requirements](#requirements)
 - [Usage](#usage)
